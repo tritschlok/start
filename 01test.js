@@ -1,0 +1,3 @@
+/**
+ * Einstieg in JavaScript.
+ */
